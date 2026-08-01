@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://github.com/github-bian?tab=repositories">
-      <img alt="Repositories" src="https://img.shields.io/badge/Repos-44-2f81f7?style=for-the-badge&logo=github">
+      <img alt="Repositories" src="https://img.shields.io/badge/Repos-public-2f81f7?style=for-the-badge&logo=github">
     </a>
     <a href="https://github.com/github-bian">
       <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-github--bian-0d1117?style=for-the-badge&logo=github">
